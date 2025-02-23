@@ -4,6 +4,8 @@
   
 ####  :wave: Welcome my github profile !
 
+<img width="223" alt="스크린샷 2025-02-23 오후 4 15 42" src="https://github.com/user-attachments/assets/c3678829-e8a1-46a1-be01-92abe4b6ffdd" />
+
   
  <br/>
  <br/>
