@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=최현수&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=Backend%20Developer&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=최현수&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=50&desc=Backend%20Developer&descAlignY=85&descAlign=80)
 
 ### </> 이유를 찾고 이유를 만들어가는 개발자 </>
 
