@@ -20,7 +20,8 @@
 - **Phone**: 010-2651-9025
 - **Email**: gustn9025@naver.com
 - **Github**: [github.com/IMCODER0000](https://github.com/IMCODER0000)
-- **Portfolio**: [Notion Portfolio](https://www.notion.so/Back-End-Developer-16ca23f0db9b80d2b63cc965e546aa2b)
+
+  # [Notion Portfolio](https://www.notion.so/Back-End-Developer-16ca23f0db9b80d2b63cc965e546aa2b)
 
 <br/>
 
